@@ -53,8 +53,9 @@ function vali() {
     } 
 			
 		if(v1&&v2&&v3){
-window.open('watch.html');
-}
+                        window.open('watch.html');
+			alert("you are login successfully");
+     }
 
 }
 
